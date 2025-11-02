@@ -1,0 +1,44 @@
+# REVISED "MESSAGE FLOW / CALL TO ACTION" TEXT
+# Copy this into your Twilio campaign after deploying to GitHub Pages
+
+==============================================================
+PASTE THIS INTO THE "How do end-users consent to receive messages?" FIELD:
+==============================================================
+Users consent by texting our number to initiate a conversation with FlashChat AI, our conversational AI service. Complete details are available at https://kabirrgrover.github.io/flashchat-ai/
+
+When a user texts our number for the first time, they immediately receive an automated welcome message that:
+
+1. Identifies our brand ("FlashChat AI")
+2. Describes the service (conversational AI for answering questions, analyzing images, providing beauty/style advice, and product suggestions)
+3. States "Msg & data rates may apply"
+4. Provides opt-out instructions ("Text STOP to opt out")
+5. Provides help instructions ("Text HELP for help")
+6. Links to our Terms (https://kabirrgrover.github.io/flashchat-ai/terms.html) and Privacy Policy (https://kabirrgrover.github.io/flashchat-ai/privacy.html)
+
+The exact welcome message is: "Hi! Welcome to FlashChat AI. I'm your conversational AI assistant. I can: Answer questions, Analyze images you send, Give beauty & style advice, Provide product suggestions. Reply with your question or send an image to start! Msg & data rates may apply. Text STOP to opt out, HELP for help."
+
+Users provide explicit consent by continuing the conversation after receiving this disclosure. This is a conversational service - message frequency varies based on user interaction. We do not send unsolicited marketing messages. All opt-in methods and consent flows are documented at the URL above.
+
+==============================================================
+INSTRUCTIONS BEFORE PASTING:
+==============================================================
+STEP 1: Deploy your website to GitHub Pages first (see README.md)
+STEP 2: Replace these placeholders with your actual info:
+- [YOUR-USERNAME] → Your GitHub username
+- [YOUR-REPO] → Your repository name
+Example:
+https://kabirrgrover.github.io/flashchat-ai/
+https://kabirrgrover.github.io/flashchat-ai/terms.html
+https://kabirrgrover.github.io/flashchat-ai/privacy.html
+STEP 3: Update the welcome message in your Twilio Messaging Service to match exactly what's written above (or update both if you want different wording - they must match!)
+STEP 4: Paste the updated text into your Twilio campaign
+STEP 5: Double-check all URLs are publicly accessible before submitting
+==============================================================
+IMPORTANT NOTES:
+==============================================================
+✅ The URLs MUST be publicly accessible (no login required)
+✅ The welcome message in your Twilio Messaging Service MUST match what you describe here
+✅ Your message samples should align with the conversational nature described
+✅ If you make changes to your welcome message later, update this campaign text to match
+Character count: Approximately 950 characters (within the 40-2048 limit)
+==============================================================
